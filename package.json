@@ -1,0 +1,19 @@
+{
+  "name": "npm-create-demo",
+  "version": "1.0.0",
+  "description": "自己创建一个可以引入的本地npm包",
+  "main": "suibian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q396921921/npm-create-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q396921921/npm-create-demo/issues"
+  },
+  "homepage": "https://github.com/q396921921/npm-create-demo#readme"
+}
